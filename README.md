@@ -1,6 +1,8 @@
 # dataset
 This following is the  results of some competitive causal discovery algorithms on the real-world alarm datasets used in PCIC Competition 2021, in which we used the metric F1-Score to evaluate the causal discovery performance.
+![image](https://github.com/gcastle-hub/dataset/blob/master/metric.png)
 
+where P is the set of all directed edges in the learned causal graph G and S is the set of ground-truth edges.
 
 We believe the best performance in the following table is the SOTA , welcome to contact us to update this table if you have got the better performance using another public algorithms.  
 |  Alogorithm  | 18V_55N_Wireless | 24V_439N_Microwave | 25V_474N_Microwave | paper                                                          |
