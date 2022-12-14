@@ -1,6 +1,7 @@
 # dataset
-This following is the  results of some competitive causal discovery algorithms on the real-world alarm datasets used in PCIC Competition 2021, in which we used the metric F1-Score to evaluate the causal discovery performance.
-![image](https://github.com/gcastle-hub/dataset/blob/master/metric.png)
+The following are F1-scores  of some competitive causal discovery algorithms on the real-world alarm datasets used in PCIC Competition 2021.
+
+![image](https://github.com/gcastle-hub/dataset/blob/master/metric_def.png)
 
 where P is the set of all directed edges in the learned causal graph G and S is the set of ground-truth edges.
 
