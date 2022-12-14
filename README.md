@@ -1,5 +1,8 @@
 # dataset
-This following is the  results of some competitive causal discovery algorithms on the real-world alarm datasets used in PCIC Competition 2021.We believe the best performance in the following table is the SOTA , welcome to contact us to update this table if you have got the better performance using another public algorithms.  
+This following is the  results of some competitive causal discovery algorithms on the real-world alarm datasets used in PCIC Competition 2021, in which we used the metric F1-Score to evaluate the causal discovery performance.
+
+
+We believe the best performance in the following table is the SOTA , welcome to contact us to update this table if you have got the better performance using another public algorithms.  
 |  Alogorithm  | 18V_55N_Wireless | 24V_439N_Microwave | 25V_474N_Microwave | paper                                                          |
 |--------------| ---------------- | ------------------ | ------------------ | ------------------------------------------------------------------- |
 | PC           | 0.4299           | 0.2270              | 0.1923             | [link](https://philarchive.org/archive/SPICPA-2)                            |
